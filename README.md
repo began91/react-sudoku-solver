@@ -37,7 +37,7 @@ Since the remaining cells could be multiple values the app take a brute force ap
 
 The first empty row to '1'. If the value is valid, move to the next row. If not set the value to '2'. When the app repeadly attempt to set the value of a row, but no value between 1-9 is valid, it backtrack to the previous row. The previous row is then set to value + 1. 
 
-### Clearning
+### Clearing
 To clear the sudoku boards click 'Clear'.
 
 
